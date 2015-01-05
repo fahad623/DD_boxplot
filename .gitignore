@@ -4,3 +4,7 @@ classifier/
 *.csv.gz
 *.suo
 *.pyc
+*.zip
+*.vw
+*.cache
+*.txt
